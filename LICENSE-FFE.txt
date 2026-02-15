@@ -1,0 +1,71 @@
+FastFood Ethical License (FFE)
+Version 1.0, February 2025
+
+Copyright (c) [year] [fullname] <email@example.com>
+
+This software and associated documentation files (the "Software") are
+provided under the following terms:
+
+1. PERMISSIONS
+   You are free to:
+   - Use the Software for any lawful purpose
+   - Modify the Software
+   - Distribute the Software
+   - Distribute modified versions
+   - Use commercially, within the ethical constraints below
+
+2. CONDITIONS
+   When you distribute the Software or modified versions, you must:
+   
+   a) Include this license text
+   b) Clearly state any modifications made
+   c) Make the source code available under this same license
+   d) Credit the original author(s)
+
+3. COPYLEFT
+   Any derivative work must be released under this same license or a
+   compatible copyleft license.
+
+4. ETHICAL USE
+   The Software shall NOT be used for:
+   
+   a) Military purposes or weapons development
+   b) Surveillance that violates privacy rights
+   c) Activities that violate human rights as defined by the UN Universal
+      Declaration of Human Rights
+   d) Environmental harm that violates local or international regulations
+   e) Discrimination based on protected characteristics
+   
+   "Use" includes direct use, integration, or providing the Software as a
+   service for such purposes.
+   
+   The author(s) reserve the right to request cessation of use that violates
+   these ethical guidelines.
+
+5. GRATITUDE CLAUSE
+   If this Software has been valuable to you, the author(s) would appreciate
+   (but do not require) an expression of gratitude. This could be:
+   - A coffee, burger, or meal if we meet in person
+   - A star on the repository
+   - A kind message or testimonial
+   - Contributing back improvements
+   - Supporting causes the author(s) care about
+   - Any other gesture of appreciation
+   
+   This gratitude is entirely voluntary and not legally required.
+
+6. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+8. INTERPRETATION
+   If any provision of this license is found to be unenforceable, the
+   remaining provisions shall remain in full effect. The ethical use clause
+   is aspirational and may not be enforceable in all jurisdictions.
